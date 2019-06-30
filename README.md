@@ -6,4 +6,4 @@ Current build: A twitter API interface that has a simple visualization built wit
 TO RUN ON TERMINAL:
 1. Install the requirements: `pip install -r requirements.txt`
 2. Get API keys for Twitter API, fill them out in `assets/twitter_api.txt`
-3. Run the main.py program: `python3 main.py "KEYPHRASE"`
+3. Run the main.py program: `python3 main.py $KEYPHRASE$`
