@@ -1,7 +1,7 @@
 # Emotion Analysis via Twitter
 A lightweight bot that continuously tracks live tweets about a topic and determines sentiment. Developed and tested on Python 3.6
 
-Current build (prototype #1): A twitter API interface that has a simple visualization built with it and uses a pre-trained emotion classification model
+Current build: A twitter API interface that has a simple visualization built with it and uses a pre-trained emotion classification model
 
 TO RUN:
 1. Install the requirements: `pip install -r requirements.txt`
