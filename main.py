@@ -1,5 +1,4 @@
 # By: Nawaf Al-Dhelaan
-# Twitterscope
 # Last changed: June 22nd, 2019
 # 
 # Description:
