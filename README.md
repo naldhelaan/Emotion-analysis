@@ -3,7 +3,7 @@ A lightweight bot that continuously tracks live tweets about a topic and determi
 
 Current build: A twitter API interface that has a simple visualization built with it and uses a pre-trained emotion classification model
 
-TO RUN:
+TO RUN ON TERMINAL:
 1. Install the requirements: `pip install -r requirements.txt`
 2. Get API keys for Twitter API, fill them out in `assets/twitter_api.txt`
-3. Run the main.py program as instructed
+3. Run the main.py program: `python3 main.py "KEYPHRASE"`
